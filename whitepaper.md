@@ -9,7 +9,7 @@ highlighting its unique features and benefits.
 ### Introduction:
 Peperambo (RAMBO) is a revolutionary project designed to leverage the growing popularity of meme coins and the potential of blockchain technology.
 
-By combining a meme-inspired theme with a PancakeSwap sniper running on Node.js, Peperambo aims to offer an engaging and dynamic experience for its community members. 
+By combining a meme-inspired theme with RAMBOsniper* dApp, Peperambo aims to offer an engaging and dynamic experience for its community members. 
 The project's core principles include transparency, fairness, and community involvement.
 ----
 ### Token Details:
