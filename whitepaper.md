@@ -1,13 +1,13 @@
-# Peperambo (RAMBO) Whitepaper
+# PepeRAMBO (RAMBO) Whitepaper
 
 ### Abstract:
-Peperambo (RAMBO) is a decentralized cryptocurrency built on the Binance Smart Chain (BSC) that aims to bring a new level of excitement and community-driven features to the meme coin space.
+PepeRAMBO (RAMBO) is a decentralized cryptocurrency built on the Binance Smart Chain (BSC) that aims to bring a new level of excitement and community-driven features to the meme coin space.
 
 It combines the elements of a meme coin with the power of the RAMBOsniper* . This whitepaper outlines the vision, tokenomics, and technical details of the Peperambo project,
 highlighting its unique features and benefits.
 
 ### Introduction:
-Peperambo (RAMBO) is a revolutionary project designed to leverage the growing popularity of meme coins and the potential of blockchain technology.
+PepeRAMBO (RAMBO) is a revolutionary project designed to leverage the growing popularity of meme coins and the potential of blockchain technology.
 
 By combining a meme-inspired theme with RAMBOsniper* dApp, Peperambo aims to offer an engaging and dynamic experience for its community members. 
 The project's core principles include transparency, fairness, and community involvement.
@@ -15,14 +15,14 @@ The project's core principles include transparency, fairness, and community invo
 ----
 ### Token Details:
 
-- Token Name: Peperambo
+- Token Name: PepeRAMBO
 - Ticker: RAMBO
 - Blockchain: Binance Smart Chain (BSC)
 - Total Supply: 4,000,000,000,000 RAMBO
 
 ### Project Features
  - SAFU
- - KyC
+ - KYC
  - Audited by certic
 
 ### Tokenomics:
