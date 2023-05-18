@@ -3,7 +3,7 @@
 ### Abstract:
 Peperambo (RAMBO) is a decentralized cryptocurrency built on the Binance Smart Chain (BSC) that aims to bring a new level of excitement and community-driven features to the meme coin space.
 
-It combines the elements of a meme coin with the power of a PancakeSwap sniper running on Node.js. This whitepaper outlines the vision, tokenomics, and technical details of the Peperambo project,
+It combines the elements of a meme coin with the power of the RAMBOsniper* . This whitepaper outlines the vision, tokenomics, and technical details of the Peperambo project,
 highlighting its unique features and benefits.
 
 ### Introduction:
