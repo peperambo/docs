@@ -1,3 +1,4 @@
+![PepeRAMBO](https://github.com/peperambo/assets/blob/main/img/rambo-sniper.png?raw=true)
 # PepeRAMBO (RAMBO) Whitepaper
 
 ### Abstract:
