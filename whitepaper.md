@@ -11,6 +11,7 @@ Peperambo (RAMBO) is a revolutionary project designed to leverage the growing po
 
 By combining a meme-inspired theme with RAMBOsniper* dApp, Peperambo aims to offer an engaging and dynamic experience for its community members. 
 The project's core principles include transparency, fairness, and community involvement.
+---------
 ----
 ### Token Details:
 
